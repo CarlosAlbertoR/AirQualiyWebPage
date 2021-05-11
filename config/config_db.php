@@ -1,6 +1,6 @@
 <?php
-$server = "127.0.0.1";
-$port = "5432";
-$user = "postgres";
-$password = "postgres";
+$server = "postgresql-30733-0.cloudclusters.net";
+$port = "30733";
+$user = "carlos";
+$password = "12345678";
 $database = "db_airQuality";
